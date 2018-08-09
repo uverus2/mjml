@@ -1,0 +1,42 @@
+<mjml>
+  <mj-body>
+
+    <mj-section background-url="ali-marel-428953-unsplash.jpg">
+
+        <mj-column>
+
+            <mj-text>
+
+                <h1 align="center">Hello</h1>
+
+            </mj-text align="right">
+
+        
+            <mj-text>
+
+
+
+            </mj-text>
+
+        </mj-column>
+
+
+        <mj-column>
+
+            <mj-text>
+                <h1 align="center">Hello</h1>
+            </mj-text>
+
+        </mj-column>
+
+
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+        <mj-image src="ali-marel-428953-unsplash.jpg"> </mj-image>
+        <mj-button background-color="#F45E43"> Discover </mj-button>
+    </mj-column>
+    </mj-section>
+ </mj-body>
+</mjml>
