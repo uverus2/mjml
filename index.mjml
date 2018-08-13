@@ -1,42 +1,29 @@
 <mjml>
-  <mj-body>
+  <mj-body background-color="white">
 
-    <mj-section background-url="ali-marel-428953-unsplash.jpg">
+      <mj-wrapper> 
+      
+            <mj-section> 
 
-        <mj-column>
+                  <mj-column>
+                  
+                        <mj-image
+                               src="http://offers.indeed.com/rs/indeed/images/logo_employers_en_US.gif"
+                               alt="logo"
+                               width="150px" />
+                  
+                  </mj-column>
+             
+            </mj-section>
 
-            <mj-text>
-
-                <h1 align="center">Hello</h1>
-
-            </mj-text align="right">
-
-        
-            <mj-text>
-
-
-
-            </mj-text>
-
-        </mj-column>
+            <mj-hero background-width="600px" background-height="469px" background-url="ali-marel-428953-unsplash.jpg"> 
 
 
-        <mj-column>
-
-            <mj-text>
-                <h1 align="center">Hello</h1>
-            </mj-text>
-
-        </mj-column>
 
 
-    </mj-section>
+            </mj-hero>
+      
+      </mj-wrapper>
 
-    <mj-section>
-        <mj-column>
-        <mj-image src="ali-marel-428953-unsplash.jpg"> </mj-image>
-        <mj-button background-color="#F45E43"> Discover </mj-button>
-    </mj-column>
-    </mj-section>
  </mj-body>
 </mjml>
